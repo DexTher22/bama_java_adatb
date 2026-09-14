@@ -36,6 +36,7 @@ public class DataService {
             emp.setSalary(rs.getInt("salary"));
             empList.add(emp);
         }
+        con.close();
 
         return empList;
     }

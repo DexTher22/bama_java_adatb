@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Bama adatbázis
 Java adatbázis slite3, mariadb
 lib könyvtárba kell:
